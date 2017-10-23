@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Frank's Blog
 
-You can use the [editor on GitHub](https://github.com/ZonghaoWang/ZonghaoWang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Keep a blog is really an interesting part of my life. Hope you can enjoy the journey as you surf through.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By now, this blog is hosing on Google Firebase with a free SSL. You can visit the most updated site by [https://www.flinhong.com](https://flinhong.com).
 
-### Markdown
+## Blog Status
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This blog is running with Travis docker, please find the building status below.
 
-```markdown
-Syntax highlighted code block
+[![Build Status](https://travis-ci.org/flinhong/flinhong.github.io.svg?branch=jekyll)](https://travis-ci.org/flinhong/flinhong.github.io)
 
-# Header 1
-## Header 2
-### Header 3
+Since I'm going to update my site, this living site you visited at [flinhong.github.io](https://flinhong.github.io) will no longer update. But you can use it if you like, steps as below.
 
-- Bulleted
-- List
+If you have any questions, you can [leave me a message](https://flinhong.github.io/contact/#message) for discussion 😉.
 
-1. Numbered
-2. List
+## Theme Usage
 
-**Bold** and _Italic_ and `Code` text
+For using of this theme, please fork the original Jekyll sources under [Jekyll branch](https://github.com/flinhong/flinhong.github.io/tree/jekyll).
 
-[Link](url) and ![Image](src)
-```
+Of course, the documentary for this theme is not well developed. So, [drop me a line](https://flinhong.github.io/contact/#message) for discussion if any.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+By the way, *jekyll-minifier* was used to compress the html, css, and js files. It will slow down the building process and also cannot be accepted by GitHub Pages. If you don't need this, just remove it from `_config.yml` file.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZonghaoWang/ZonghaoWang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+And if possible, please leave a place for linking back to my site or my [GitHub profile](https://github.com/flinhong). 😉
