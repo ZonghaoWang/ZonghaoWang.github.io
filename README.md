@@ -26,7 +26,8 @@
 * 熟悉各种优化算法以及各种数据挖掘算法
 * 熟练掌握TensorFlow
 * 熟练使用C语言开发算法流程
-* 了解神经网络的一些最新的方法
+* 了解CNN网络的一些最新进展
+* 熟练mySql，MongodB和redis数据库
 * 精通python和java，掌握Flask架构
 
 ## 项目经历
