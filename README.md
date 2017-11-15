@@ -27,6 +27,7 @@
 * 熟练掌握TensorFlow
 * 熟练使用C语言开发算法流程
 * 了解CNN网络的一些最新进展
+* 熟悉git
 * 熟练mySql，MongodB和redis数据库
 * 精通python和java，掌握Flask架构
 
